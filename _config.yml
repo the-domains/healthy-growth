@@ -1,3 +1,5 @@
+name: Healthy Growth
+layout_spectrum: 0.1272854027338326
 typography_spectrum: 0.9928274848498404
 color:
   brandColors:
@@ -10,11 +12,8 @@ color:
   lightness: 0.8340550924185663
   saturation: 0.9640310732647777
   rhythmicContrast: 0.5060097011737525
-layout_spectrum: 0.1272854027338326
-name: Healthy Growth
+title: Healthy Growth
 navigation:
   - name: About Us
     url: 'http://healthygrowth.ca/about-us'
     type: external
-title: Healthy Growth
-description: Growth from the inside out
