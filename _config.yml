@@ -1,5 +1,11 @@
+name: Healthy Growth
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/558ae98a-6b44-4925-baea-4d1905020a04.jpg
 layout_spectrum: 0.39274521288461983
 typography_spectrum: 0.00883542699739337
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#468966'
@@ -11,12 +17,6 @@ color:
   lightness: 0.4688902203924954
   saturation: 0.14864012482576072
   rhythmicContrast: 0.03363971784710884
-name: Healthy Growth
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/784b471b-ae80-4137-8121-2a69f49bbc54.png
-opengraph:
-  type: ''
-  appId: ''
 title: Healthy Growth
 author:
   name: ''
