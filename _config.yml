@@ -1,16 +1,15 @@
+name: Healthy Growth
+layout_spectrum: 0.8060528787318617
 typography_spectrum: 0.21106776129454374
 color:
-  brandStrength: 0.6258146062027663
-  lightness: 0.3892139233648777
-  saturation: 0.5551331227179617
-  rhythmicContrast: 0.10106182261370122
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-layout_spectrum: 0.8060528787318617
-name: Healthy Growth
+  brandStrength: 0.6258146062027663
+  lightness: 0.3892139233648777
+  saturation: 0.5551331227179617
+  rhythmicContrast: 0.10106182261370122
 title: Healthy Growth
-description: Health from the inside out
