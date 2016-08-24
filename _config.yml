@@ -1,11 +1,6 @@
-name: Healthy Growth
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/558ae98a-6b44-4925-baea-4d1905020a04.jpg
-layout_spectrum: 0.4175920491106808
 typography_spectrum: 0.16363452188670635
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FFFFFF'
@@ -17,14 +12,20 @@ color:
   lightness: 0.9159232908859849
   saturation: 0.9896433504763991
   rhythmicContrast: 0.4482283398974687
-title: Health - Inside and out
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.4175920491106808
 author:
   name: ''
   url: ''
   email: ''
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/558ae98a-6b44-4925-baea-4d1905020a04.jpg
+name: Healthy Growth
 navigation:
   - name: About Us
     url: 'http://healthygrowth.ca/about-us'
     type: external
+title: Health - Inside and out
+description: Health - Inside and out
