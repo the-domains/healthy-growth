@@ -14,8 +14,8 @@ keywords:
   - following
   - meet
 title: How to Follow Up After Meeting Someone in Person | The Art of Manliness
-datePublished: '2016-08-24T17:43:49.991Z'
-dateModified: '2016-08-24T17:41:56.729Z'
+datePublished: '2016-08-25T17:11:06.043Z'
+dateModified: '2016-08-24T20:00:29.586Z'
 publisher:
   name: The Art of Manliness
   domain: www.artofmanliness.com
@@ -30,7 +30,7 @@ description: >-
   does, Antonio crafted the definitive resource for how to prepare for and
   execute a night of networking and socializing.
 via: {}
-starred: true
+starred: false
 sourcePath: >-
   _posts/2016-08-24-how-to-follow-up-after-meeting-someone-in-person-or-the-art-o.md
 inFeed: true
