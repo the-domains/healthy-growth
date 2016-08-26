@@ -23,5 +23,9 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/558ae98a-6b44-4925-baea-4d1905020a04.jpg
 name: Healthy Growth
+navigation:
+  - name: Shop Now
+    url: 'http://www.amway.ca/twintowermotivation'
+    type: external
 title: Healthy Growth
 description: Health - Inside and out
