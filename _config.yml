@@ -1,5 +1,6 @@
-layout_spectrum: 0.21983188926242292
 typography_spectrum: 0.48453128058463335
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -11,11 +12,10 @@ color:
   lightness: 0.20020364318042994
   saturation: 0.5601134295575321
   rhythmicContrast: 0.7368701708037406
-content_rating:
-  adult: false
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.21983188926242292
 author:
   name: ''
   url: ''
@@ -27,5 +27,8 @@ navigation:
   - name: Shop Now
     url: 'http://www.amway.ca/twintowermotivation'
     type: external
+  - name: 'My Credo '
+    id: cfc0e53a-ecbb-4e93-b891-324b49ea292a
+    type: content
 title: Healthy Growth
 description: Health - Inside and out
