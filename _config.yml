@@ -30,5 +30,8 @@ navigation:
   - name: 'My Credo '
     id: cfc0e53a-ecbb-4e93-b891-324b49ea292a
     type: content
+  - name: About
+    url: 'http://twintowerventures.com/about/'
+    type: external
 title: Healthy Growth
 description: Health - Inside and out
